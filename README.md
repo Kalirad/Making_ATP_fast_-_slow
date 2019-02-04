@@ -1,4 +1,4 @@
-# Making_ATP_fast_and_slow
+# Making ATP fast and slow
 
 Data and code associated with:
 
