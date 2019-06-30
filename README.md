@@ -8,7 +8,7 @@ Safdari, Sadeghi, & Kalirad. Making ATP fast and slow: do yeasts play a mixed st
 
 + Yeast_chem_model.py: The model written in Python 2.7.
 
-+ Yeast_chem_model.ipynb: ipython notebook to generate Figures 2, 3, 4, 5, and 6.
++ Yeast_chem_model.ipynb: ipython notebook to generate Figures 2, 3, 4, and 5.
 
-+ k1_2_k2_100_2_fin.txt: The results from the game-theoretical analysis.
++ replicator_results.csv: The results from the game-theoretical analysis.
 
