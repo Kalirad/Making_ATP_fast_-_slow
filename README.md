@@ -2,7 +2,7 @@
 
 Data and code associated with:
 
-Safdari, Sadeghi, & Kalirad. Making ATP fast and slow: do yeasts play a mixed strategy to metabolise glucose?
+Safdari, Sadeghi, & Kalirad. Population-level heterogeneity as a reflection of mixed strategy: A computational perspective on the Crabtree effect
 
 ## Contents:
 
