@@ -2,7 +2,7 @@
 
 Data and code associated with:
 
-Safdari, Sadeghi, & Kalirad. Population-level heterogeneity as a reflection of mixed strategy: A computational perspective on the Crabtree effect
+Safdari, Kalirad, & Sadeghi. Population-level heterogeneity as a reflection of mixed strategy: A computational perspective on the Crabtree effect
 
 ## Contents:
 
@@ -10,5 +10,5 @@ Safdari, Sadeghi, & Kalirad. Population-level heterogeneity as a reflection of m
 
 + Yeast_chem_model.ipynb: ipython notebook to generate Figures 2, 3, 4, and 5.
 
-+ replicator_results.csv: The results from the game-theoretical analysis.
++ replicator_results.txt: The results from the game-theoretical analysis.
 
