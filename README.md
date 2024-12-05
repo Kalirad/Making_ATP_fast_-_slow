@@ -2,7 +2,7 @@
 
 Data and code associated with:
 
-Safdari, Kalirad, & Sadeghi. Population-level heterogeneity as a reflection of mixed strategy: A computational perspective on the Crabtree effect (doi: https://doi.org/10.1101/540757).
+Safdari H, Kalirad A, Sadeghi M. _Population-level heterogeneity as a reflection of mixed strategy: A computational perspective on the Crabtree effect._ [J Theor Biol. 2021 Dec 21;531:110912.](10.1016/j.jtbi.2021.110912)
 
 ## Contents:
 
